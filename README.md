@@ -1,2 +1,3 @@
-# TrabalhoFinal_ML
-Implementação de um classificador de tendência de pensamentos suicidas em jovens sobre dados da OMS
+# Trabalho Final - TECIX (Aprendizado de Máquina)
+
+Implementação de um classificador de tendência de pensamentos suicidas em jovens sobre dados da OMS utilizando KNN, SVM e XGBoost.
